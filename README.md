@@ -1,13 +1,23 @@
-# Hi! 🎈
+# About me! 🎈
 
-### 🙂 My name is Lucas. I'm an ADS student and a back-end web developer in my spare time.
-### 👨‍💻 I am always developing new projects to complement my studies.
-### 🌱 I'm currently studying PHP but I've studied other technologies such as:
-- [Java](https://github.com/Luccxx/Projeto-Livraria)
-- [Python](https://github.com/Luccxx/Perguntas-e-Respostas)
-- [Javascript](https://github.com/Luccxx/Movie-DB)
+🙂 My name is Lucas. I'm an ADS student and a back-end web developer in my spare time.
 
-**[Meu trabalho mais recente](https://github.com/Luccxx/Atomic)**
+👨‍💻 I am always developing new projects to complement my studies.
+
+# Things i like
+
+📚 I'm a big fan of comics and science fiction books.
+
+🎸 My favorite musical style is Rock ***(I love Mamonas Assassinas)***
+
+# Languages that i use
+
+🌱 I'm currently studying PHP but I've studied other technologies such as:
+- 👽 **[Java](https://github.com/Luccxx/Projeto-Livraria)** I learned at technical school
+- 🐍 [Python](https://github.com/Luccxx/Perguntas-e-Respostas) My first programming language
+- 🧠 [Javascript](https://github.com/Luccxx/Movie-DB) I learned a lot with JS
+
+🚨 **[My last project](https://github.com/Luccxx/Atomic)**
 
 ## 📣 Contact me:
 - [Instagram](https://www.instagram.com/_1uccass)
